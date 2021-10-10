@@ -1,4 +1,4 @@
-module gitlab.com/gocor/corpwd
+module github.com/gocor/corpwd
 
 go 1.16
 
